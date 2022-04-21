@@ -1,2 +1,2 @@
 # counter
-Extremely basic counter with React
+Extremely basic counter with React, useState.
